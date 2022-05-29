@@ -1,0 +1,51 @@
+body{
+    background-color: lightpink;
+}
+
+.header {
+    line-height: 3;
+    color: lightpink;
+    background-color: aliceblue;
+    font-family: 'Indie Flower', cursive;
+    width: 100% ;
+    box-shadow: 5px 5px 5px gray;
+    font-size: 25px;
+}
+
+.main_div p{
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family:cursive;
+    color: azure;
+    font-size: larger;
+}
+
+.main_div h2{
+    font-size:29px;
+    color: cornsilk;
+}
+
+.footer{
+    background-color: aliceblue;
+    bottom: 0;
+    color: gray;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    line-height: 3;
+    box-shadow: 5px 5px 5px gray;
+    font-family: 'Indie Flower', cursive;
+}
+
+button{
+    background-color: aliceblue;
+    color: lightpink;
+    border-radius: 69px;
+    font-size: 20;
+    margin-bottom: 20px;
+}
+
+img{
+    width: 750px;
+    height: 500px;
+}
