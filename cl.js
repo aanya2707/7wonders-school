@@ -1,3 +1,3 @@
 function Next(){
-    window.location = "tm.html";
+    window.location = "index.html";
 }
